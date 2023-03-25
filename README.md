@@ -1,5 +1,11 @@
 # AB8
 Weather Forecasting using Machine Learning 
+
+Chimma Dharma -19471A0510
+Sk.Allabakshu - 19471A0556
+P.Siva Sankar - 19471A0549
+
+
 Weather forecasting is the process of predicting 
 the upcoming state of the atmosphere by analysing current 
 weather conditions and using mathematical models to 
