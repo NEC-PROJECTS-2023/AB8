@@ -1,9 +1,9 @@
 # AB8
 Weather Forecasting using Machine Learning 
 
-Chimma Dharma -19471A0510
-Sk.Allabakshu - 19471A0556
-P.Siva Sankar - 19471A0549
+1. Chimma Dharma -19471A0510
+2. Sk.Allabakshu - 19471A0556
+3. P.Siva Sankar - 19471A0549
 
 
 Weather forecasting is the process of predicting 
